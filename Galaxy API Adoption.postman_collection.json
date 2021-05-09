@@ -1,7 +1,7 @@
 {
 	"info": {
 		"_postman_id": "4c229d46-d7bd-47ef-ab73-a68744d2f1c0",
-		"name": "Galaxy API Adoption",
+		"name": "Galaxy API  Adoption",
 		"description": "___This collection accompanies the Postman Galaxy API Adoption training session.___\n\nLearn how to build adoption for your API by working your way through this collection!\n\n__FORK the collection to create a copy in your own workspace.__\n\n* Start by opening the collection and expanding the `Learn adoption` folder, selecting the `Begin learning` request, and clicking **Send**.\n* When you get a response, open the **Visualize** tab and follow the instructions from there.\n\nWhen you're done working through the collection, open the `Complete submission` folder:\n\n* Follow the steps returned from the `Publish workspace` request to create a public workspace and update your profile.\n* Copy your collection link (**Share** &gt; **Get public link**) into the `Test collection` address, adding your profile link as the query parameter–**Send** to test your work for completion!\n\nWhen your submission is successfully processed you'll receive the [Postman API Adoption](https://badgr.com/public/badges/uKubW0DORXGQ_cBGqBUVlw) badge!",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
 	},
